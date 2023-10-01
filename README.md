@@ -1,6 +1,7 @@
 - Hi, I’m @SingularTeabag
 - I’m interested in coding 
-- I’m currently learning a variety of different languages just cuz
+- I’m currently learning a variety 
+  of different languages just cuz
 
 <!---
 SingularTeabag/SingularTeabag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
